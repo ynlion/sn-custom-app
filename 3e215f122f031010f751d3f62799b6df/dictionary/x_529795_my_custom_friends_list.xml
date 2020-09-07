@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="friends list" max_length="40" name="x_529795_my_custom_friends_list" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="First date" max_length="40" name="first_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Friend name" max_length="40" name="friend_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Group name" max_length="40" name="group_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Phone number" max_length="40" name="phone_number" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="010-" label="Phone number" mandatory="true" max_length="40" name="u_phone_number" type="string"/>
+    </element>
+</database>

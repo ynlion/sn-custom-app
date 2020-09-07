@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New Section" section_id="0589c0222fc31010f751d3f62799b61b" sys_domain="global" table="x_529795_my_custom_friends_list" version="3" view="All_List">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>friend_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-07 05:51:07</sys_created_on>
+            <sys_id>45af80662fc31010f751d3f62799b68a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_529795_my_custom_friends_list" sys_domain="global" view="4589c0222fc31010f751d3f62799b617">0589c0222fc31010f751d3f62799b61b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-07 05:51:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-07 05:51:07</sys_created_on>
+            <sys_id>c5af80662fc31010f751d3f62799b68a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_529795_my_custom_friends_list" sys_domain="global" view="4589c0222fc31010f751d3f62799b617">0589c0222fc31010f751d3f62799b61b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-07 05:51:07</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_phone_number</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-07 05:51:07</sys_created_on>
+            <sys_id>49af80662fc31010f751d3f62799b68a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_529795_my_custom_friends_list" sys_domain="global" view="4589c0222fc31010f751d3f62799b617">0589c0222fc31010f751d3f62799b61b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-07 05:51:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-07 05:51:07</sys_created_on>
+            <sys_id>c9af80662fc31010f751d3f62799b68a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_529795_my_custom_friends_list" sys_domain="global" view="4589c0222fc31010f751d3f62799b617">0589c0222fc31010f751d3f62799b61b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-07 05:51:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_529795_my_custom_friends_list</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-07 05:24:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0589c0222fc31010f751d3f62799b61b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_529795_my_custom_friends_list</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="My Custom App" source="x_529795_my_custom">3e215f122f031010f751d3f62799b6df</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Custom App">3e215f122f031010f751d3f62799b6df</sys_scope>
+            <sys_update_name>sys_ui_section_0589c0222fc31010f751d3f62799b61b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-07 05:24:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="All List" name="All_List">4589c0222fc31010f751d3f62799b617</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

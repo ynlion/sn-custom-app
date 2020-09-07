@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 01:30:05</sys_created_on>
+        <sys_id>49e3db562f031010f751d3f62799b607</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_529795_my_custom_friends_list.x_58872_needit.needit_user</sys_name>
+        <sys_package display_value="My Custom App" source="x_529795_my_custom">3e215f122f031010f751d3f62799b6df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Custom App">3e215f122f031010f751d3f62799b6df</sys_scope>
+        <sys_security_acl display_value="x_529795_my_custom_friends_list">4de3db562f031010f751d3f62799b604</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_49e3db562f031010f751d3f62799b607</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 01:30:05</sys_updated_on>
+        <sys_user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">e3cd1afc2f075410f751d3f62799b6b2</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="DELETE">
+        <disabled>ignore</disabled>
+        <field>phone_number</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 01:30:02</sys_created_on>
+        <sys_data_policy display_value="Sets the Phone number field to mandatory">a8e39b562f031010f751d3f62799b686</sys_data_policy>
+        <sys_id>ece39b562f031010f751d3f62799b689</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>phone_number</sys_name>
+        <sys_package display_value="My Custom App" source="x_529795_my_custom">3e215f122f031010f751d3f62799b6df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Custom App">3e215f122f031010f751d3f62799b6df</sys_scope>
+        <sys_update_name>sys_data_policy_rule_ece39b562f031010f751d3f62799b689</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 01:30:02</sys_updated_on>
+        <table>x_529795_my_custom_friends_list</table>
+    </sys_data_policy_rule>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Custom App">3e215f122f031010f751d3f62799b6df</application>
+        <file_path/>
+        <instance_id>47cd145bdbb86fc44f035d00cf96192b</instance_id>
+        <instance_name>dev71800</instance_name>
+        <name>sys_data_policy_rule_ece39b562f031010f751d3f62799b689</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule"><sys_data_policy_rule action="INSERT_OR_UPDATE"><disabled>ignore</disabled><field>phone_number</field><mandatory>true</mandatory><sys_class_name>sys_data_policy_rule</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-07 01:30:02</sys_created_on><sys_data_policy display_value="Sets the Phone number field to mandatory">a8e39b562f031010f751d3f62799b686</sys_data_policy><sys_id>ece39b562f031010f751d3f62799b689</sys_id><sys_mod_count>0</sys_mod_count><sys_name>phone_number</sys_name><sys_package display_value="My Custom App" source="x_529795_my_custom">3e215f122f031010f751d3f62799b6df</sys_package><sys_policy/><sys_scope display_value="My Custom App">3e215f122f031010f751d3f62799b6df</sys_scope><sys_update_name>sys_data_policy_rule_ece39b562f031010f751d3f62799b689</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-07 01:30:02</sys_updated_on><table>x_529795_my_custom_friends_list</table></sys_data_policy_rule></record_update>]]></payload>
+        <payload_hash>-917415802</payload_hash>
+        <record_name>phone_number</record_name>
+        <reverted_from/>
+        <source>32215f122f031010f751d3f62799b6e2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 01:30:02</sys_created_on>
+        <sys_id>64e39b562f031010f751d3f62799b68c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174662f2f440000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 01:30:02</sys_updated_on>
+        <type>Data Policy Rule</type>
+        <update_guid>ace39b56db03101006e1b600b3a5cf8b</update_guid>
+        <update_guid_history>ace39b56db03101006e1b600b3a5cf8b:-917415802</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-07 05:45:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy_rule">sys_data_policy_rule</sys_db_object>
+        <sys_id>196c6bf974d546f2853f746e156fb611</sys_id>
+        <sys_metadata>ece39b562f031010f751d3f62799b689</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>phone_number</sys_name>
+        <sys_package display_value="My Custom App" source="x_529795_my_custom">3e215f122f031010f751d3f62799b6df</sys_package>
+        <sys_parent display_value="Sets the Phone number field to mandatory">a8e39b562f031010f751d3f62799b686</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="My Custom App">3e215f122f031010f751d3f62799b6df</sys_scope>
+        <sys_scope_delete display_value="">d44288c0acbd4eb0a66367eabc2bbd61</sys_scope_delete>
+        <sys_update_name>sys_data_policy_rule_ece39b562f031010f751d3f62799b689</sys_update_name>
+        <sys_update_version display_value="sys_data_policy_rule_ece39b562f031010f751d3f62799b689">64e39b562f031010f751d3f62799b68c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-07 05:45:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

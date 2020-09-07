@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Innovate" max_length="40" name="x_529795_my_custom_innovate" type="collection">
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element label="Due date" max_length="40" name="due_date" type="due_date"/>
+        <element label="Idea implemented" max_length="40" name="idea_implemented" type="boolean"/>
+        <element choice="3" label="Idea type" max_length="40" name="idea_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Cost Savings" value="cost"/>
+                <element inactive_on_update="false" label="Process Improvement" value="process"/>
+                <element inactive_on_update="false" label="Team Building" value="team"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Short description" max_length="125" name="short_description" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

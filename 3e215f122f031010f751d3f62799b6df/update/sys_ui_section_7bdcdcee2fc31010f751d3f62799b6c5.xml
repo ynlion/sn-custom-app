@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Advanced" section_id="7bdcdcee2fc31010f751d3f62799b6c5" sys_domain="global" table="x_529795_my_custom_innovate" version="3" view="advanced">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-07 06:48:56</sys_created_on>
+            <sys_id>b3dcdcee2fc31010f751d3f62799b6fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Advanced" display_value="Advanced" name="x_529795_my_custom_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">7bdcdcee2fc31010f751d3f62799b6c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-07 06:48:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-07 06:48:56</sys_created_on>
+            <sys_id>37dcdcee2fc31010f751d3f62799b6fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Advanced" display_value="Advanced" name="x_529795_my_custom_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">7bdcdcee2fc31010f751d3f62799b6c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-07 06:48:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-07 06:48:56</sys_created_on>
+            <sys_id>b7dcdcee2fc31010f751d3f62799b6fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Advanced" display_value="Advanced" name="x_529795_my_custom_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">7bdcdcee2fc31010f751d3f62799b6c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-07 06:48:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea_type</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-07 06:48:56</sys_created_on>
+            <sys_id>3bdcdcee2fc31010f751d3f62799b6fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Advanced" display_value="Advanced" name="x_529795_my_custom_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">7bdcdcee2fc31010f751d3f62799b6c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-07 06:48:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea_implemented</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-07 06:48:56</sys_created_on>
+            <sys_id>bbdcdcee2fc31010f751d3f62799b6fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Advanced" display_value="Advanced" name="x_529795_my_custom_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">7bdcdcee2fc31010f751d3f62799b6c5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-07 06:48:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Advanced</caption>
+            <header>false</header>
+            <name>x_529795_my_custom_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-07 06:48:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7bdcdcee2fc31010f751d3f62799b6c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_529795_my_custom_innovate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="My Custom App" source="x_529795_my_custom">3e215f122f031010f751d3f62799b6df</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Custom App">3e215f122f031010f751d3f62799b6df</sys_scope>
+            <sys_update_name>sys_ui_section_7bdcdcee2fc31010f751d3f62799b6c5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-07 06:48:55</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
